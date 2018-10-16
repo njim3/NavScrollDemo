@@ -1,0 +1,17 @@
+//
+//  NavScrollDemo-Prefix.pch
+//  NavScrollDemo
+//
+//  Created by njim3 on 2018/10/15.
+//  Copyright © 2018 njim3. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import "Conf.h"
+#import <UIColor+Additions.h>
+#import <MJRefresh.h>
+#import "BaseVC.h"
+#import "UIImage+Color.h"
+
+#endif
